@@ -44,6 +44,7 @@ function init() {
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://FRDS.lyuan.workers.dev" target="_blank">FRDS</a></li>
 					<li class="menu_li"><a href="https://javbus.lyuan.workers.dev" target="_blank">JavBus</a></li>
+					<li class="menu_li"><a href="https://EA.lyuan.workers.dev" target="_blank">欧美</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
