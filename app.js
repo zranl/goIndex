@@ -42,7 +42,6 @@ function init() {
 			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/zranl/goIndex/images/icon.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://frds.lyuan.workers.dev" target="_blank">FRDS</a></li>
 					<li class="menu_li"><a href="https://javbus.lyuan.workers.dev" target="_blank">JavBus</a></li>
 					<li class="menu_li"><a href="https://ea.lyuan.workers.dev" target="_blank">欧美</a></li>
 					<li class="menu_li"><a href="https://ikea.lyuan.workers.dev" target="_blank">ikea</a></li>
